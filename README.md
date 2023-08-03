@@ -1,6 +1,8 @@
-<img src="" >
+<img src="assets/images/sampul_github.png" >
 
-<h2 align="center">Hi 👋! My name is Aditya Pratama and I'm a Web Developer, from Indonesia</h2>
+<h1 align="center">Hi, I'm Aditya Pratama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aditypraa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
