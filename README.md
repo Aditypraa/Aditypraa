@@ -69,10 +69,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Aditypraa/Aditypraa/output/snake.svg" alt="Snake animation" />
-
-###
