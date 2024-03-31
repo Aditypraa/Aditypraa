@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="300" src="assets/images/logo.png"/>
+<img align="right" height="150" src="assets/images/logo_AP.png"/>
 
 ###
 
