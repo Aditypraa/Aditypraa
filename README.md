@@ -11,11 +11,13 @@
 
 ###
 
+<div>
 <img align="right" height="150" src="assets/images/logo_AP.png"/>
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="60" alt="HTML5"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="60" alt="CSS3"  />
