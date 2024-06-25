@@ -5,14 +5,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aditypraa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditypraa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="0xabdulkhalid"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditypraa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditypraa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="Aditya Pratama"/>
 </div>
 
 ###
 
 <div>
-<img align="right" height="150" src="assets/images/logo_AP.png"/>
+<img align="right" height="150" src="assets/images/AP-HD.png"/>
 </div>
 
 ###
