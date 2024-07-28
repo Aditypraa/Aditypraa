@@ -60,7 +60,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCmzJkDiH9AkIEpqN1ID-8LQ" target="_blank">
+  <a href="https://www.youtube.com/@adityapraetama" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/aditypraa/" target="_blank">
@@ -78,7 +78,7 @@
   <a href="https://t.me/aditypraa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://web.facebook.com/Aditypraaa/" target="_blank">
+  <a href="https://web.facebook.com/AdityaPraetama/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
