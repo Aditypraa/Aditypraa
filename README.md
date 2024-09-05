@@ -13,7 +13,7 @@
 ###
 
 <div>
-<img align="right" height="150" src="assets/images/AP-HD.png"/>
+<img align="right" height="150" src="assets/images/Ap_v2.png"/>
 </div>
 
 ###
