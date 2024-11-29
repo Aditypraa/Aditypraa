@@ -1,4 +1,4 @@
-<img src="assets/images/sampul_github.png" >
+<img src="assets/images/Background_new.png" >
 
 <h1 align="center">Hi, I'm Aditya Pratama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
