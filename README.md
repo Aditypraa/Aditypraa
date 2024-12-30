@@ -66,7 +66,7 @@
   <a href="https://www.instagram.com/aditypraa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/pefAc7Jjsm" target="_blank">
+  <a href="https://discord.com/users/898623587999690903" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:aditypraa@gmail.com" target="_blank">
